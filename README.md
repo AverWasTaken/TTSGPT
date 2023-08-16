@@ -12,9 +12,6 @@
 
 
 ## dont expect magic from it. 
-
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 ![0%-chatgpt](https://user-images.githubusercontent.com/66864263/228057139-563cc625-3983-4ac6-969a-e5cbecdc290d.svg)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 *made with ❤️, by aver*
