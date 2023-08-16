@@ -1,32 +1,39 @@
-# Welcome
+# Welcome to TTS ChatGPT
 
-## A TTS ChatGPT Made On The GPT-3.5 Model From [Open-AI](https://www.openai.com).
+A text-to-speech model built on the GPT-3.5 engine from [OpenAI](https://www.openai.com).
 
-### Note, GPT 3.5 does have worse responses, but its cheaper, and faster, so feel free to change the model from gpt-3.5 to gpt-4. 
+## Note
 
-## Dont understand [Model-cost?](https://openai.com/pricing#language-models)
+GPT-3.5 may offer responses that are less refined compared to GPT-4, but it is more affordable and faster. Feel free to switch the model from gpt-3.5 to gpt-4.
 
+### Don't understand [Model-cost?](https://openai.com/pricing#language-models)
+Find detailed pricing information at the provided link.
 
 # Instructions
 
-## You will need these python libraries to use this. 
+## Required Python Libraries
+
+You will need the following Python libraries to use this project:
 
 - openai
 - time
 - glob
 - pygame
 
-## Dont trust any of them? ALT+F4
+### Don't trust any of them? ALT+F4
 
-# MAKE SURE YOUR MAKE A FOLDER NAMED 'output' INSIDE THE FOLDER YOU PUT MAIN.py IN!!
+## Important Note
 
+**MAKE SURE TO CREATE A FOLDER NAMED 'output' INSIDE THE FOLDER WHERE YOU PLACE MAIN.py.**
 
-## Bugs? FAQ?
+# Bugs and FAQs
 
+Have an issue or a question? Open an issue!
 ![issue](https://user-images.githubusercontent.com/66864263/228055777-9b3cf110-9d5d-4dc5-8914-f6c02d227a3e.svg)
 
+## Don't Expect Magic
 
-## dont expect magic from it. 
+Keep your expectations realistic.
 ![0%-chatgpt](https://user-images.githubusercontent.com/66864263/228057139-563cc625-3983-4ac6-969a-e5cbecdc290d.svg)
 
-*made with ❤️, by aver*
+*Made with ❤️, by aver*
