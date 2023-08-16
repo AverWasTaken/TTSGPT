@@ -28,7 +28,8 @@ You will need the following Python libraries to use this project:
 
 # Bugs and FAQs
 
-Have an issue or a question? Open an issue!
+Have an issue or a question?
+
 ![issue](https://user-images.githubusercontent.com/66864263/228055777-9b3cf110-9d5d-4dc5-8914-f6c02d227a3e.svg)
 
 ## Don't Expect Magic
