@@ -4,7 +4,7 @@
 
 ### Note, GPT 3.5 does have worse responses, but its cheaper, and faster, so feel free to change the model from gpt-3.5 to gpt-4. 
 
-## Dont understand [model cost?](https://platform.openai.com/tokenizer](https://openai.com/pricing#language-models)
+## Dont understand [Model-cost?](https://openai.com/pricing#language-models)
 
 ## Bugs? FAQ?
 
