@@ -34,7 +34,6 @@ Have an issue or a question?
 
 ## Don't Expect Magic
 
-Keep your expectations realistic.
 ![0%-chatgpt](https://user-images.githubusercontent.com/66864263/228057139-563cc625-3983-4ac6-969a-e5cbecdc290d.svg)
 
 *Made with ❤️, by aver*
