@@ -7,18 +7,18 @@
 ## Dont understand [Model-cost?](https://openai.com/pricing#language-models)
 
 
-#Instructions
+# Instructions
 
-##You will need these python libraries to use this. 
+## You will need these python libraries to use this. 
 
 - openai
 - time
 - glob
 - pygame
 
-##Domt trust any of them? ALT+F4
+## Dont trust any of them? ALT+F4
 
-#MAKE SURE YOUR MAKE A FOLDER NAMED 'output' INSIDE THE FOLDER YOU PUT MAIN.py IN!!
+# MAKE SURE YOUR MAKE A FOLDER NAMED 'output' INSIDE THE FOLDER YOU PUT MAIN.py IN!!
 
 
 ## Bugs? FAQ?
